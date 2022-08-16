@@ -12,3 +12,4 @@ The R2P2 Dashboard links your REDCap project(s) to R2P2.  You can link multiple 
 
 ![R2P2 Integrations](/images/current_integrations.png)
 
+**For More Information or if you need access to the code please contact us at [redcap-help@stanford.edu](mailto:redcap-help@stanford.edu)**
