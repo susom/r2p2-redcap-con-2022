@@ -10,5 +10,5 @@ The R2P2 Dashboard links your REDCap project(s) to R2P2.  You can link multiple 
 
 #### Current R2P2 Integration and More: 
 
-![R2P2 Integrations](/imagess/current_integrations.png)
+![R2P2 Integrations](/images/current_integrations.png)
 
